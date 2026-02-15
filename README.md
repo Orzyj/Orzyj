@@ -26,6 +26,14 @@ Currently, I'm working on an **ECG analysis device** for my Master's thesis.
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orzyj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+---
+
+### Statistics / Programming Languages
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Orzyj&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Orzyj&theme=tokyonight" alt="Languages" />
+</p>
 
 ---
 
