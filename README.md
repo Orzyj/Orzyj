@@ -46,3 +46,4 @@ Currently, I'm working on an **ECG analysis device** for my Master's thesis.
 
 * **[Rubik-s-Challenge](https://github.com/Orzyj/Rubik-s-Challenge)** - A 3D Rubik's Cube simulation built with C++, OpenGL, and Qt.
 * **[Snake](https://github.com/Orzyj/Snake)** - A classic Snake game implementation using the Qt framework.
+* ** and more
