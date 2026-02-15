@@ -27,7 +27,6 @@ Currently, I'm working on an **ECG analysis device** for my Master's thesis.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orzyj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
 
 ### Statistics / Programming Languages
 
