@@ -17,6 +17,7 @@ Currently, I'm working on an **ECG analysis device** for my Master's thesis.
   <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=git&logoColor=white" alt="Docker" />
 </p>
 
 ---
