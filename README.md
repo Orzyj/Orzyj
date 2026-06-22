@@ -7,6 +7,22 @@ Currently, I'm working on an **ECG analysis device** for my Master's thesis.
 
 ---
 
+### Badges
+
+<p align="center">
+  <a href="https://www.credly.com/badges/eea36fcb-fd1e-4638-8797-d87b60ece713/public_url" target="_blank">
+    <img src="badges/ccna-enterprise-networking-security-and-automation.png" alt="Moja odznaka z Credly" width="150">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/c4b38fdd-5b68-4ac8-83aa-68880b15c466/public_url" target="_blank">
+    <img src="badges/network-security.png" alt="Moja odznaka z Credly" width="150">
+  </a>
+</p>
+
+---
+
 ### 🛠️ Languages and Tools
 
 <p align="center">
