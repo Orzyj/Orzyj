@@ -11,11 +11,11 @@ Currently, I'm working on an **ECG analysis device** for my Master's thesis.
 
 <p align="center">
   <a href="https://www.credly.com/badges/eea36fcb-fd1e-4638-8797-d87b60ece713/public_url" target="_blank">
-    <img src="badges/ccna-enterprise-networking-security-and-automation.png" alt="CCNA Enterprise Networking" width="162">
+    <img src="badges/ccna-enterprise-networking-security-and-automation.png" alt="CCNA Enterprise Networking" width="150" height="150">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/c4b38fdd-5b68-4ac8-83aa-68880b15c466/public_url" target="_blank">
-    <img src="badges/network-security.png" alt="Network Security" width="162">
+    <img src="badges/network-security.png" alt="Network Security" width="150" height="150">
   </a>
 </p>
 
