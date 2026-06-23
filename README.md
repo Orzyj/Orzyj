@@ -17,6 +17,10 @@ Currently, I'm working on an **ECG analysis device** for my Master's thesis.
   <a href="https://www.credly.com/badges/c4b38fdd-5b68-4ac8-83aa-68880b15c466/public_url" target="_blank">
     <img src="badges/network-security.png" alt="Network Security" width="150" height="150">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/f9eba98c-0edd-485f-aa32-5289cf8559dd/public_url" target="_blank">
+    <img src="badges/getting-started-with-cybersecurity.png" alt="Network Security" width="150" height="150">
+  </a>
 </p>
 
 ---
