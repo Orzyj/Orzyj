@@ -85,5 +85,17 @@ Currently, I'm working on an **ECG analysis device** for my Master's thesis.
 * **[HexEditor](https://github.com/Orzyj/HexEditor)** - A classic hex editor.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Orzyj/HexEditor/main/img/main.png" alt="Demo aplikacji">
+  <img src="https://raw.githubusercontent.com/Orzyj/HexEditor/main/img/main.png" alt="Demo aplikacji" width="500">
+</p>
+
+* **[SnakeGame](https://github.com/Orzyj/Snake) - Snake Game in OpenGL and C++
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Orzyj/Snake/blob/main/img/1.png" alt="Demo aplikacji" width="500">
+</p>
+
+* **[SuperComputing](https://github.com/Orzyj/SuperComputing) - Project that combain Qt/C++/CUDA
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Orzyj/SuperComputing/blob/master/img/ms.png" alt="Demo aplikacji" width="500">
 </p>
