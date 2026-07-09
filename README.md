@@ -71,5 +71,19 @@ Currently, I'm working on an **ECG analysis device** for my Master's thesis.
 ### 🚀 Personal Projects
 
 * **[Rubik-s-Challenge](https://github.com/Orzyj/Rubik-s-Challenge)** - A 3D Rubik's Cube simulation built with C++, OpenGL, and Qt.
-* **[Snake](https://github.com/Orzyj/Snake)** - A classic Snake game implementation using the Qt framework.
-* ** and more
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Orzyj/Rubik-s-Challenge/main/screenshots/gif.gif" alt="Demo aplikacji">
+</p>
+
+* **[Sudoku](https://github.com/Orzyj/Sudoku)** - A classic Sudoku game.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Orzyj/Sudoku/main/img/gif.gif" alt="Demo aplikacji">
+</p>
+  
+* **[HexEditor](https://github.com/Orzyj/HexEditor)** - A classic hex editor.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Orzyj/HexEditor/main/img/main.png" alt="Demo aplikacji">
+</p>
