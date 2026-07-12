@@ -65,7 +65,7 @@ Currently, I'm working on an **ECG analysis device** for my Master's thesis.
 
 ### 🎓 Academic & Engineering Projects
 
-* **Tracked Robot (Engineering Thesis)** - A mobile robot project built with **C++** and **Python**, focusing on embedded control systems.
+* **Tracked Robot (Engineering Thesis)** - A mobile robot project built with **C++** and **Python**, focusing on embedded control systems. [private]
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Orzyj/Orzyj/main/academic%20projects/firstPage.png" alt="App demo" width="500">
@@ -77,7 +77,7 @@ Currently, I'm working on an **ECG analysis device** for my Master's thesis.
 | **Database** | SQLite |
 | **Technologies** | C++, Qt, QML |
 
-* **ECG Analysis Device (Master's Project)** - *[In Progress]* Developing a device and software for analyzing electrocardiogram signals.
+* **ECG Analysis Device (Master's Project)** - *[In Progress]* Developing a device and software for analyzing electrocardiogram signals. [private]
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Orzyj/Orzyj/main/academic%20projects/heartApp.jpg" alt="App demo" width="500">
