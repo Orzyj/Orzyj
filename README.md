@@ -46,23 +46,6 @@ Currently, I'm working on an **ECG analysis device** for my Master's thesis.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orzyj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-
-### Statistics / Programming Languages
-
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Orzyj&theme=tokyonight" alt="Profile Details" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Orzyj&theme=tokyonight" alt="Languages" />
-</p>
-
----
-
 ### 🎓 Academic & Engineering Projects
 
 * **Tracked Robot (Engineering Thesis)** - A mobile robot project built with **C++** and **Python**, focusing on embedded control systems. [private]
